@@ -1,5 +1,5 @@
 # Footballer Records
-Application holds doubly linked list behind it. When user inserts new football player record, application adds new node to doubly linked list and when user tries to remove some specific football player, application removes connection from it's node and connects previous node to the next node. Because algorithm holds doubly linked list, we have a BigO(n) for searching, inserting, and deletion operations.
+Application holds doubly linked list behind it. When user inserts new football player record, application adds new node to doubly linked list and when user tries to remove some specific football player, application removes connection from it's node and connects previous node to the next node. Because algorithm holds doubly linked list, we have a BigO(n) for searching, inserting, and deletion operations. Purely written in Java, used Netbeans IDE 8.0.2
 
 ## Displaying all data from data.txt
 ![1](https://user-images.githubusercontent.com/30238276/72569598-dc137280-38cb-11ea-87ca-fb37ae69e2cf.PNG)
